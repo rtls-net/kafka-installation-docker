@@ -32,3 +32,12 @@ Now you can launch the broker itself in daemon mode by running this command.
 
 `/kafka_2.13-3.0.0/bin/kafka-server-start.sh ~/kafka_2.13-3.0.0/config/kraft/server.properties`
 
+
+
+
+
+
+#### Secure kafka
+
+https://dzone.com/articles/running-kafka-in-kubernetes-with-kraft-mode-and-ss
+
